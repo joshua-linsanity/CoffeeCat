@@ -1104,7 +1104,7 @@ MonoBehaviour:
   bonusPrefab: {fileID: 7082195159467692660, guid: 5cac542fbc57d0a48a1541dc3efeacac, type: 3}
   bonusProbability: 0.3
   coffeePrefab: {fileID: 2157649885127852267, guid: ea01c4518228e994db0973f11638647f, type: 3}
-  coffeeProbability: 0.1
+  coffeeProbability: 0.15
   minHeight: -2
   maxHeight: 2
   verticalOffset: 0
