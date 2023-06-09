@@ -1,0 +1,12 @@
+TODO LIST for COFFEECAT
+
+1. Add welcome screen (splash screen?) 
+	a. "Happy Birthday Misha"
+	b. Add sound
+2. Add sound effects upon trigger
+	a. Scoring
+	b. Bonus
+	c. Coffee
+	d. Game over
+3. Reset Howl's Moving Castle upon death
+4. Return to first scene with exit button
